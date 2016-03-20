@@ -2,13 +2,14 @@ html, body {
   margin: 0;
 }
 
-body {
-  background: url(../assets/background.jpg) no-repeat center center fixed;
-  -webkit-background-size: cover;
-  -moz-background-size: cover;
-  -o-background-size: cover;
-  background-size: cover;
-  
+@media all and (min-width:480px) {
+    body {
+        background: url(../assets/background.jpg) no-repeat center center fixed;
+        -webkit-background-size: cover;
+        -moz-background-size: cover;
+        -o-background-size: cover;
+        background-size: cover;   
+    }
 }
 
 .container {
@@ -19,7 +20,7 @@ body {
 div h1 {
   font-family: Hack;
   font-weight: 300;
-  margin-top: 68.3vh;
+  margin-top: 78.3vh;
   color: black;
   font-size: 52px;
   padding-left: 3vw;

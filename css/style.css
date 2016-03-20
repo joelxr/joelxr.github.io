@@ -1,0 +1,60 @@
+html, body {
+  margin: 0;
+}
+
+body {
+  background: url(../assets/background.jpg) no-repeat center center fixed;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+  
+}
+
+.container {
+  margin: 0 auto;
+  width: 960px;
+}
+
+div h1 {
+  font-family: Hack;
+  font-weight: 300;
+  margin-top: 68.3vh;
+  color: black;
+  font-size: 52px;
+  padding-left: 3vw;
+}
+
+p {
+  font-family: Hack;
+  font-size: 14px;
+  font-weight: 100;
+  color: white;
+  padding-left: 3vw;
+}
+
+#left {
+  float: left;
+}
+
+#right {
+  float: right;
+  margin-right: 1.5vw;
+}
+
+.favicons {
+  padding-left: 3vw;
+  margin-left: 3px;
+}
+
+.favicons a:hover {
+  color: #001122;
+  text-decoration: none;
+}
+
+.favicons a {
+  display: inline-block;
+  width: 60px;
+  font-size: 4.5vh;
+  color: black;
+}

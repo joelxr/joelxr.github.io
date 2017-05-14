@@ -5,7 +5,7 @@ body {
 
 @media all and (min-width:480px) {
     body {
-        background: url(../assets/background.jpg) no-repeat center center fixed;
+        background: url(../assets/background-solarized.jpg) no-repeat center center fixed;
         -webkit-background-size: cover;
         -moz-background-size: cover;
         -o-background-size: cover;
@@ -13,44 +13,28 @@ body {
     }
 }
 
-.container {
+.content {
     margin: 0 auto;
-    width: 960px;
-}
-
-div h1 {
     font-family: Hack;
-    font-weight: 300;
-    margin-top: 78.3vh;
-    color: black;
-    font-size: 52px;
-    padding-left: 3vw;
 }
 
-p {
-    font-family: Hack;
-    font-size: 14px;
-    font-weight: 100;
-    color: white;
-    padding-left: 3vw;
+h1 {
+    font-size: 4em !important;
 }
 
-#left {
-    float: left;
+.section {
+    padding: 2vw;
+    color: #93a1a1;
+    margin-top: 8vh;
 }
 
-#right {
-    float: right;
-    margin-right: 1.5vw;
+.first {
+    margin-top: 68vh;
 }
 
-.favicons {
-    padding-left: 3vw;
-    margin-left: 3px;
-}
 
 .favicons a:hover {
-    color: #001122;
+    color: #93a1a1;
     text-decoration: none;
 }
 
@@ -58,5 +42,5 @@ p {
     display: inline-block;
     width: 60px;
     font-size: 4.5vh;
-    color: black;
+    color: #93a1a1;
 }

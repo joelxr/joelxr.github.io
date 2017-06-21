@@ -1,0 +1,68 @@
+==================================================================
+https://keybase.io/joelxr
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://joelxr.github.io
+  * I am joelxr (https://keybase.io/joelxr) on keybase.
+  * I have a public key with fingerprint 7A1F 4CFE 692A BF29 7041  34AD 3ACF 14AB 7991 13A0
+
+To do so, I am signing this object:
+
+{
+    "body": {
+        "key": {
+            "eldest_kid": "0101020617f903c569882cad3618184779dd52926366a80c0bfecb6bfbbea76935550a",
+            "fingerprint": "7a1f4cfe692abf29704134ad3acf14ab799113a0",
+            "host": "keybase.io",
+            "key_id": "3acf14ab799113a0",
+            "kid": "0101020617f903c569882cad3618184779dd52926366a80c0bfecb6bfbbea76935550a",
+            "uid": "f8611f88befa9e1e3e01849eed7b5119",
+            "username": "joelxr"
+        },
+        "service": {
+            "hostname": "joelxr.github.io",
+            "protocol": "https:"
+        },
+        "type": "web_service_binding",
+        "version": 1
+    },
+    "ctime": 1498049287,
+    "expire_in": 157680000,
+    "prev": "ba3bb2008ad28c9ee27f4105e064903a3fc29546746d764f50fdfab90a9cd08c",
+    "seqno": 7,
+    "tag": "signature"
+}
+
+which yields the signature:
+
+-----BEGIN PGP MESSAGE-----
+Version: Keybase OpenPGP v2.0.72
+Comment: https://keybase.io/crypto
+
+yMIrAnicrVJbSFVBFL2WWolWKj6SnifohebMec+tn6iP7KVFYpZ0mTlnRk/aPbdz
+zzWtROhB0YMoopIsjAgjNErIoqzUyjTJr4go4YKEFr376EFgzbH6CPps5mOYvdda
+e6/Nvpc02pcQ01C3wjglTJoR09tRF/EVLysfs10gtlkt+LcL5XTkoRUmDbuBcssU
+/AKA/IpAhRpDQDIUFem6aGBTUqEOdVnTkGkqIhJVSVWxDgxAGDWIShghFGsqkhRF
+AVjIFpgVLKVOyLGCLpfVMGSywaiKREyYiDQgQ0nmsthgUMZEQwhCCQNOLLPDHoM3
+R3CYzrdsHuOfwEh7/8D/574jI3JMVyFkuk4ow4hCKlHAVRClpkYUCJEHDFMniDdT
+jt5k04oqR6jJFnis0jKoN1bPx1/5+aWWWxYhvxyFHNu1DbuCZ8tcNxT2e2y3OuTB
+t1IS+C0UIFbQ5JPkjErqhC07KPghRxqu5SlDGelARqKuZQu0KmQ5NGB5CEVTdcCP
+V4dWckmCJUJEAHRsirrBfYgakyFQKFBlPi8sMUNEiqxqsmpqqswUwEyGCQIYGSbQ
+DcGztiVoC35eycWlXDJslQaxG3GoUNPZXhLri0nwxceN8jbMlzBu4p+92/tmrO/4
+4eK++DHjF5c0FpUs39B9JvNZe8WOhv5X1etqN7U/XtJ/7fnQYGNuJIMkhY515qWw
+C/tuH3UyCjdOPXgx48vyI521q2/OK7t+Mr5lz4O46OnhW/W776duKX/WdwlOzf/x
+ae3sgoVJ9S+b3nVNq6lPvfEw+fMdN3dycpw9rV+L3Z3VcPBsQfyTtyn5hX3p3Vc+
+TMhpXZUY3ZNX2DvlanTroo/ft+VPaL1ZNF24+37m3KTE9bXNbSufduTWZz39njh8
+KOtzz7c5KT2Dm880rVh1ZTjzxfOcr8lqU8zO1GYdzhpY2jWw6MTlhYVNedE1wU+v
+0/YPVaXcSK9rOXRg6NyutsRH59OipGNB+k86FDyx
+=mRgH
+-----END PGP MESSAGE-----
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/joelxr
+
+==================================================================

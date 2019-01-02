@@ -1,9 +1,5 @@
-html,
-body {
-    margin-top: 0;
-}
 
-@media all and (min-width:480px) {
+@media all and (min-width: 480px) {
     body {
         background: url(../assets/background-solarized.jpg) no-repeat center center fixed;
         -webkit-background-size: cover;
@@ -13,29 +9,7 @@ body {
     }
 }
 
-.content {
-    margin: 0 auto;
-    font-family: Hack;
-}
-
-h1 {
-    font-size: 4em !important;
-}
-
-.section {
-    padding: 2vw;
-    color: #93a1a1;
-    margin-top: 68vh;
-}
-
-.favicons a:hover {
-    color: #93a1a1;
-    text-decoration: none;
-}
-
-.favicons a {
-    display: inline-block;
-    width: 60px;
-    font-size: 4.5vh;
-    color: #93a1a1;
+#messages {
+    color: #b5b5b5;
+    font-family: 'Hack', sans-serif;
 }

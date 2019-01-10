@@ -1,17 +1,16 @@
 $(function() {
     $('#typed').typed({
         strings: [
-            "Joel Rocha.",
-            "a software developer.",
-            "a Vim enthusiast.",
-            "a coffee lover.",
-            "a cat person.",
-            "someone that uses twitter.",
-            "a science lover.",
-            "a TV shows addicted.",
-            "crazy about movies too.",
-            "someone too keep.",
-            "Joel Rocha."
+            "'m Joel Rocha.",
+            "'m a software developer.",
+            "'m a Vim enthusiast.",
+            "'m a coffee lover.",
+            "use Twitter.",
+            "'m a science lover.",
+            "'m a TV shows addicted.",
+            "'m crazy about movies too.",
+            "'m someone too keep.",
+            "'m Joel Rocha."
         ],
         typeSpeed: 36,
         backSpeed: 0,
